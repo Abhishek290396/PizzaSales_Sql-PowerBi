@@ -1,4 +1,4 @@
-#Pizza Sales Analysis (Sql-PowerBi)
+Pizza Sales Analysis (Sql-PowerBi)
 
 Overview
 
