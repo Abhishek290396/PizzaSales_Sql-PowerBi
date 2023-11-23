@@ -31,7 +31,9 @@ Dataset can be downloaded from the given link
 
 
 ## Screenshots
+
 Dashboard Screenshots
+
 ![App Screenshot](https://i.ibb.co/pPm77ZF/Screenshot-2023-11-23-162824.png)
 
 ![App Screenshot](https://i.ibb.co/jMSdVGp/Screenshot-2023-11-23-162747.png)
